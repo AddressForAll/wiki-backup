@@ -1,0 +1,3714 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pt-BR">
+  <siteinfo>
+    <sitename>Wiki AddressForAll</sitename>
+    <dbname>wiki</dbname>
+    <base>https://wiki.addressforall.org/doc/P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.39.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Mídia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário</namespace>
+      <namespace key="3" case="first-letter">Usuário Discussão</namespace>
+      <namespace key="4" case="first-letter">AddressForAll</namespace>
+      <namespace key="5" case="first-letter">AddressForAll Discussão</namespace>
+      <namespace key="6" case="first-letter">Arquivo</namespace>
+      <namespace key="7" case="first-letter">Arquivo Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo Discussão</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="3000" case="first-letter">A4A</namespace>
+      <namespace key="4000" case="first-letter">DG</namespace>
+      <namespace key="5000" case="first-letter">OsmC</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Página principal</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2023-03-10T13:29:00Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" sha1="aepv4cznvz2ms4ofh1d3hckhxferd0d" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]</text>
+      <sha1>aepv4cznvz2ms4ofh1d3hckhxferd0d</sha1>
+    </revision>
+    <revision>
+      <id>2</id>
+      <parentid>1</parentid>
+      <timestamp>2023-03-11T19:37:02Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1151" sha1="059gtfrd2m6h3mz2b01juhw9vpakusj" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>059gtfrd2m6h3mz2b01juhw9vpakusj</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
+      <timestamp>2023-03-11T19:38:58Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" sha1="aepv4cznvz2ms4ofh1d3hckhxferd0d" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]</text>
+      <sha1>aepv4cznvz2ms4ofh1d3hckhxferd0d</sha1>
+    </revision>
+    <revision>
+      <id>4</id>
+      <parentid>3</parentid>
+      <timestamp>2023-03-11T19:39:25Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1152" sha1="malhbu0rbvfms9htw1eouthlyw52mqa" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>malhbu0rbvfms9htw1eouthlyw52mqa</sha1>
+    </revision>
+    <revision>
+      <id>6</id>
+      <parentid>4</parentid>
+      <timestamp>2023-03-11T19:54:51Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Começando */</comment>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1154" sha1="6m9l4vnwwzac0ma8yovs1i7os62ffed" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+
+
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>6m9l4vnwwzac0ma8yovs1i7os62ffed</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2023-03-11T21:09:48Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1246" sha1="7yaf4lp0eti6w55mtrh837ohxr9dutj" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+
+{{#evt:
+service=youtube
+|id=https://www.youtube.com/watch?v=eAORm-8b1Eg
+|alignment=right
+}}
+
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>7yaf4lp0eti6w55mtrh837ohxr9dutj</sha1>
+    </revision>
+    <revision>
+      <id>8</id>
+      <parentid>7</parentid>
+      <timestamp>2023-03-11T21:28:03Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>8</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1262" sha1="2ox6y7mp59zu5j98kla6lxf09uk9ah5" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+
+{{#evt:
+service=youtube
+|id=https://www.youtube.com/watch?v=eAORm-8b1Eg
+|alignment=right
+}}
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>2ox6y7mp59zu5j98kla6lxf09uk9ah5</sha1>
+    </revision>
+    <revision>
+      <id>9</id>
+      <parentid>8</parentid>
+      <timestamp>2023-03-11T21:29:10Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>9</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1281" sha1="5pica9n6o0v0tor2ohj6nkh5b1z72bc" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+
+{{#evt:
+service=youtube
+|id=https://www.youtube.com/watch?v=eAORm-8b1Eg
+|alignment=right
+}}
+
+&lt;graph&gt;
+[ "foo", "bar" ]
+&lt;/graph&gt;
+
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>5pica9n6o0v0tor2ohj6nkh5b1z72bc</sha1>
+    </revision>
+    <revision>
+      <id>10</id>
+      <parentid>9</parentid>
+      <timestamp>2023-03-11T21:30:08Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Começando */</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1410" sha1="sq33890qere0cz9o1um9dta0vs2ngy2" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+
+{{#evt:
+service=youtube
+|id=https://www.youtube.com/watch?v=eAORm-8b1Eg
+|alignment=right
+}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9|fallback=Graph test seddon.png|fallbackWidth=450}}
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>sq33890qere0cz9o1um9dta0vs2ngy2</sha1>
+    </revision>
+    <revision>
+      <id>11</id>
+      <parentid>10</parentid>
+      <timestamp>2023-03-11T21:30:41Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>11</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1431" sha1="nstt8i27hhyk4x00gk073sh1mc9mpyv" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+# teste #
+
+{{#evt:
+service=youtube
+|id=https://www.youtube.com/watch?v=eAORm-8b1Eg
+|alignment=right
+}}
+
+# teste #
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9|fallback=Graph test seddon.png|fallbackWidth=450}}
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>nstt8i27hhyk4x00gk073sh1mc9mpyv</sha1>
+    </revision>
+    <revision>
+      <id>12</id>
+      <parentid>11</parentid>
+      <timestamp>2023-03-11T21:32:46Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>12</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1330" sha1="133c6lhauf6ib77x20g8y8u6dsh6y9h" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+== teste == 
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9|fallback=Graph test seddon.png|fallbackWidth=450}}
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>133c6lhauf6ib77x20g8y8u6dsh6y9h</sha1>
+    </revision>
+    <revision>
+      <id>13</id>
+      <parentid>12</parentid>
+      <timestamp>2023-03-11T21:41:48Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>13</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4046" sha1="qkhujv433gohxhg9m7cmj8kaqpc1unt" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+== teste == 
+
+{
+  //
+  // ATTENTION: This code is maintained at https://www.mediawiki.org/wiki/Template:Graph:Lines
+  //            Please do not modify it anywhere else, as it may get copied and override your changes.
+  //            Suggestions can be made at https://www.mediawiki.org/wiki/Template_talk:Graph:Lines
+  //
+  // Template translation is in https://commons.wikimedia.org/wiki/Data:Original/Template:Graphs.tab
+  //
+
+  "version": 2,
+  "width": 400,
+  "height": 300,
+"padding": "strict",
+  "signals": [{"name": "rightwidth", "expr": "width + padding.right", "init":"400"}],
+  "data": [{
+    "name": "chart",
+    "url": "tabular:///bls.gov/US Women's weekly earnings as a percent of men's by age, annual averages.tab",
+    "format": {"type": "json"
+      , "property": "data"
+      
+    },
+    "transform": [
+
+
+      // Convert xField parameter into a field "_xfield"
+      {"type": "formula", "field": "_xfield", "expr":
+"datetime(datum.year, 0, 1)"
+      }
+      , {"type": "sort", "by": ["_xfield"]}
+, {"type": "fold", "fields": ["age_16_24", "age_25_34", "age_35_44", "age_45_54"]}
+, {"type": "formula", "field": "_yfield", "expr": "datum.value" }
+
+    ]
+  },
+// source of labels for `tabletype=tab`
+  {
+    "name": "labels",
+    "url": "tabular:///bls.gov/US Women's weekly earnings as a percent of men's by age, annual averages.tab",
+    "format": {"type": "json", "property": "fields"},
+    "transform": [
+
+
+    ]
+  },
+
+
+
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "time",
+      "domain": {"data": "chart", "field": "_xfield"},
+      "range": "width",
+      
+
+      
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "chart", "field": "_yfield"},
+      "zero": false,
+      "domainMin": 50,
+      "domainMax": 100,
+      
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "range": "category10", 
+      "domain": {"data": "chart", "field": "key"}
+    },
+{
+      "name": "labels",
+      "type": "ordinal",
+"domain": {"data": "labels", "field": "name"},
+      "range": {"data": "labels", "field": "title"},
+    }
+  ],
+
+  "axes": [
+    {
+      "scale": "x", "type": "x", "tickSizeEnd": 0,
+      "ticks": 7,
+      
+      
+      
+      "properties": { 
+        "labels": { 
+          
+          
+        } 
+       }
+    },
+    {
+      "scale": "y", "type": "y", "tickSizeEnd": 0,
+      
+      
+      
+      
+      "properties": { 
+        "labels": { 
+          
+          
+        } 
+       }
+    }
+  ],
+
+  "marks": [
+    // Group data by the group parameter or "key", and draw lines, one line per group
+    {
+      "type": "group",
+      "from": {
+        "data": "chart",
+        "transform": [{"type": "facet", "groupby": ["key"]}]
+      },
+      "marks": [
+        {
+          "type": "line",
+          "properties": {
+            "hover": {
+              "stroke": {"value": "red"}
+            },
+            "update": {
+              "stroke": {"scale": "color", "field": "key"}
+            },
+            "enter": {
+              "y": {"scale": "y", "field": "_yfield"},
+              "x": {"scale": "x", "field": "_xfield"},
+              "stroke": {"scale": "color", "field": "key"},
+              "interpolate": {"value": "linear"},
+              "strokeWidth": {"value": 2.5}
+            }
+          }
+        }
+        
+      ],
+    },
+
+
+
+
+
+  ]
+}</text>
+      <sha1>qkhujv433gohxhg9m7cmj8kaqpc1unt</sha1>
+    </revision>
+    <revision>
+      <id>14</id>
+      <parentid>13</parentid>
+      <timestamp>2023-03-11T21:59:43Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>14</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1165" sha1="rma2wnpkh487fd0ieo9xunzhmn25n1r" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+== teste == 
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}</text>
+      <sha1>rma2wnpkh487fd0ieo9xunzhmn25n1r</sha1>
+    </revision>
+    <revision>
+      <id>15</id>
+      <parentid>14</parentid>
+      <timestamp>2023-03-11T22:35:16Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>15</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1174" sha1="3itwid63cqh83zoyn6xm6viojx77wis" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+teste_inicio
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim</text>
+      <sha1>3itwid63cqh83zoyn6xm6viojx77wis</sha1>
+    </revision>
+    <revision>
+      <id>16</id>
+      <parentid>15</parentid>
+      <timestamp>2023-03-12T02:50:04Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Começando */</comment>
+      <origin>16</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1191" sha1="t955l0up3tohn02ipaiq0zrejtfq9xh" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+teste_inicio
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim</text>
+      <sha1>t955l0up3tohn02ipaiq0zrejtfq9xh</sha1>
+    </revision>
+    <revision>
+      <id>17</id>
+      <parentid>16</parentid>
+      <timestamp>2023-03-12T02:51:16Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Começando */</comment>
+      <origin>17</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1238" sha1="5zsi5gou2qmbd5e43yfi72jk06bn9f6" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+teste_inicio
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim</text>
+      <sha1>5zsi5gou2qmbd5e43yfi72jk06bn9f6</sha1>
+    </revision>
+    <revision>
+      <id>18</id>
+      <parentid>17</parentid>
+      <timestamp>2023-03-13T21:54:53Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>18</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1283" sha1="alic6tlbxhelemma2l6ao0afwyxgroo" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+teste_inicio
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{Template:Graph:PageViews}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim</text>
+      <sha1>alic6tlbxhelemma2l6ao0afwyxgroo</sha1>
+    </revision>
+    <revision>
+      <id>19</id>
+      <parentid>18</parentid>
+      <timestamp>2023-03-13T22:03:06Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Começando */</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1399" sha1="o6goq3wo7zpws3253upf7phnmy4vqja" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+teste_inicio
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{Template:Graph:PageViews}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim</text>
+      <sha1>o6goq3wo7zpws3253upf7phnmy4vqja</sha1>
+    </revision>
+    <revision>
+      <id>26</id>
+      <parentid>19</parentid>
+      <timestamp>2023-03-14T00:54:48Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="758" sha1="tgfu8yeofbkoybho7gp0m8quq6j12yc" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+== Páginas de manutenção e testes ==
+* [[Manutenção]]
+* [[Sandbox]]</text>
+      <sha1>tgfu8yeofbkoybho7gp0m8quq6j12yc</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>26</parentid>
+      <timestamp>2023-03-19T20:31:11Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="841" sha1="hy0evcrkrt7b0p8tls99n63sdqh9lcw" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Teste ==
+[[Arquivo:2012-12-19-gnulinux.webp|esquerda|miniaturadaimagem]]
+
+
+
+
+
+
+
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+== Páginas de manutenção e testes ==
+* [[Manutenção]]
+* [[Sandbox]]</text>
+      <sha1>hy0evcrkrt7b0p8tls99n63sdqh9lcw</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2023-03-19T21:03:52Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="832" sha1="m9ky8k0qi5aw9ajvml5g9hi556pgbl9" xml:space="preserve">&lt;strong&gt;O MediaWiki foi instalado.&lt;/strong&gt;
+
+Consulte o [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Manual de Usuário] para informações de como usar o software wiki.
+
+== Teste ==
+[[Arquivo:2012-12-19-gnulinux.webp|miniaturadaimagem|nenhum]]
+== Começando ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Lista de opções de configuração]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ FAQ do MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Lista de discussão com avisos de novas versões do MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Traduza o MediaWiki para seu idioma]
+
+== Páginas de manutenção e testes ==
+* [[Manutenção]]
+* [[Sandbox]]</text>
+      <sha1>m9ky8k0qi5aw9ajvml5g9hi556pgbl9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Predefinição:Graph:Chart</title>
+    <ns>10</ns>
+    <id>2</id>
+    <revision>
+      <id>5</id>
+      <timestamp>2023-03-11T19:52:05Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Criou página com ' &lt;noinclude&gt; &lt;templatedata&gt; { 	"params": {}, 	"format": "inline" } &lt;/templatedata&gt; &lt;/noinclude&gt;'</comment>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="95" sha1="bet7ygd9xkfhpo4b2rowlqji1x68nhq" xml:space="preserve">
+&lt;noinclude&gt;
+&lt;templatedata&gt;
+{
+	"params": {},
+	"format": "inline"
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>bet7ygd9xkfhpo4b2rowlqji1x68nhq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Manutenção</title>
+    <ns>0</ns>
+    <id>3</id>
+    <revision>
+      <id>20</id>
+      <timestamp>2023-03-14T00:12:41Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Criou página com 'Links rápidos e anotações.  == Links rápidos de manutenção == Links em vermelho são páginas para serem criadas. *[[Sandbox]] - página de testes *[[Especial:Páginas especiais]] *[[Especial:Versão]] - lista também as extensões instaladas *[[Especial:Predefinições não categorizadas]] *[[Especial:Lista de arquivos]] *[[MediaWiki:Licenses]] *[[MediaWiki:Sidebar]] *[[MediaWiki:Vector.css]] - edição do estilo/skin da Wiki '''Listas:''' *Especial:Categorias|T...'</comment>
+      <origin>20</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1387" sha1="d6haip1mvw5vkwyv9n7lv32jjn9hczt" xml:space="preserve">Links rápidos e anotações.
+
+== Links rápidos de manutenção ==
+Links em vermelho são páginas para serem criadas.
+*[[Sandbox]] - página de testes
+*[[Especial:Páginas especiais]]
+*[[Especial:Versão]] - lista também as extensões instaladas
+*[[Especial:Predefinições não categorizadas]]
+*[[Especial:Lista de arquivos]]
+*[[MediaWiki:Licenses]]
+*[[MediaWiki:Sidebar]]
+*[[MediaWiki:Vector.css]] - edição do estilo/skin da Wiki
+'''Listas:'''
+*[[Especial:Categorias|Todas as Categorias]]
+*[[Especial:Lista de arquivos|Todas as mídias/imagens]]
+*[[:Categoria:Predefinições]] - lista todas as predefinições que forem criadas
+*[[:Categoria:Avisos]] - predefinições de avisos/alertas
+*[[:Categoria:Listas]] - predefinições de lista de links
+*[[:Categoria:Barras de navegação]] - predefinições de barras de navegação
+*[[:Categoria:Wikimedia Commons]] - lista mídias da Commons usadas aqui.
+
+== Sites de apoio ==
+
+* [[mediawikiwiki:Help:Contents/pt-br|Ajuda Mediawiki]]
+
+== Sites de interesse ==
+
+* [https://nominatim.openstreetmap.org/ Nominatim]
+* [https://overpass-turbo.eu/ Overpass-turbo]
+* [https://www.igoreliezer.com/laranjal/wiki/index.php?title=Projeto:Mapa_digital Projeto de mapeamento de Laranjal Paulista no OpenStreetMap] (Atlas de Laranjal Paulista)
+* [https://maps.wikimedia.org/#5/-14.924/-54.668 Mapa de fundo da Wikimedia]
+[[Categoria:Manutenção]]</text>
+      <sha1>d6haip1mvw5vkwyv9n7lv32jjn9hczt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sandbox</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>21</id>
+      <timestamp>2023-03-14T00:13:09Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Criou página com 'Página de testes.  Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}} == Título (2 =) ==  === Subtítulo 1 (3 =) ===  ==== Subtítulo 2 (4 =) ====  ===== Subtítulo 3 (5 =) =====  ====== Subtítulo 4 (6 =) ======  Pré-formatado (um espaço antes do parágrafo) &lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;  &lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/co...'</comment>
+      <origin>21</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2766" sha1="gcsqdpfpyy3r9o8598wvgc70uonkul7" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+Gráficos não funcionam. Será necessário instalar a extensão Graph (https://www.mediawiki.org/wiki/Extension:Graph).
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>gcsqdpfpyy3r9o8598wvgc70uonkul7</sha1>
+    </revision>
+    <revision>
+      <id>23</id>
+      <parentid>21</parentid>
+      <timestamp>2023-03-14T00:19:49Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Gráficos */</comment>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6633" sha1="c0siisdj3nhrv88g00z6fitq9egosa3" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras:'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;
+
+'''Gráfico de linhas:'''
+&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam.
+
+Falta implementar a Predefinição (usar isto https://www.mediawiki.org/wiki/Extension:Scribunto - ver se já está instalado):
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>c0siisdj3nhrv88g00z6fitq9egosa3</sha1>
+    </revision>
+    <revision>
+      <id>24</id>
+      <parentid>23</parentid>
+      <timestamp>2023-03-14T00:24:09Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Não funcionando */</comment>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6599" sha1="g3oz754dv4c0mf448mx37ev21dzbi4k" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras:'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;
+
+'''Gráfico de linhas:'''
+&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam.
+
+Falta implementar a Predefinição (usar https://www.mediawiki.org/wiki/Extension:Scribunto):
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>g3oz754dv4c0mf448mx37ev21dzbi4k</sha1>
+    </revision>
+    <revision>
+      <id>25</id>
+      <parentid>24</parentid>
+      <timestamp>2023-03-14T00:37:09Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Não funcionando */</comment>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7849" sha1="mjd8e9lfdscujklsfp4i852g8tm6n2y" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;'''Gráfico de áreas'''&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+
+'''Gráfico de linhas'''&lt;graph&gt;{
+	"version": 2,
+	"width": 400,
+	"height": 200,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 0,
+					"y": 1
+				},
+				{
+					"x": 1,
+					"y": 3
+				},
+				{
+					"x": 2,
+					"y": 2
+				},
+				{
+					"x": 3,
+					"y": 4
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "linear",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "line",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"interpolate": {
+						"value": "monotone"
+					},
+					"stroke": {
+						"value": "steelblue"
+					},
+					"strokeWidth": {
+						"value": 3
+					}
+				}
+			}
+		}
+	]
+}&lt;/graph&gt;
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam: de pizza, mapa etc. Verificar exemplos na [[mediawikiwiki:Extension:Graph|documentação]].
+
+Falta implementar as predefinições (usa [[mediawikiwiki:Extension:Scribunto|Scribunto]] e Lua):
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>mjd8e9lfdscujklsfp4i852g8tm6n2y</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>25</parentid>
+      <timestamp>2023-03-14T00:55:11Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Não funcionando */</comment>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8556" sha1="c8at65locq2oll6x6fo5zzhaxjsogbh" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;'''Gráfico de áreas'''&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+
+'''Gráfico de linhas'''&lt;graph&gt;{
+	"version": 2,
+	"width": 400,
+	"height": 200,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 0,
+					"y": 1
+				},
+				{
+					"x": 1,
+					"y": 3
+				},
+				{
+					"x": 2,
+					"y": 2
+				},
+				{
+					"x": 3,
+					"y": 4
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "linear",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "line",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"interpolate": {
+						"value": "monotone"
+					},
+					"stroke": {
+						"value": "steelblue"
+					},
+					"strokeWidth": {
+						"value": 3
+					}
+				}
+			}
+		}
+	]
+}&lt;/graph&gt;
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam: de pizza, mapa etc. Verificar exemplos na [[mediawikiwiki:Extension:Graph|documentação]].
+
+Falta implementar as predefinições (usa [[mediawikiwiki:Extension:Scribunto|Scribunto]] e Lua):
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+---
+
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{Template:Graph:PageViews}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>c8at65locq2oll6x6fo5zzhaxjsogbh</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>27</parentid>
+      <timestamp>2023-03-15T00:03:42Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Funcionando */</comment>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8587" sha1="1ys2ffws8scua5f48d6x37vap9us424" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;'''Gráfico de áreas'''&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+
+'''Gráfico de linhas'''&lt;graph&gt;{
+	"version": 2,
+	"width": 400,
+	"height": 200,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 0,
+					"y": 1
+				},
+				{
+					"x": 1,
+					"y": 3
+				},
+				{
+					"x": 2,
+					"y": 2
+				},
+				{
+					"x": 3,
+					"y": 4
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "linear",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "line",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"interpolate": {
+						"value": "monotone"
+					},
+					"stroke": {
+						"value": "steelblue"
+					},
+					"strokeWidth": {
+						"value": 3
+					}
+				}
+			}
+		}
+	]
+}&lt;/graph&gt;
+
+
+{{Template:Graph:PageViews}}
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam: de pizza, mapa etc. Verificar exemplos na [[mediawikiwiki:Extension:Graph|documentação]].
+
+Falta implementar as predefinições (usa [[mediawikiwiki:Extension:Scribunto|Scribunto]] e Lua):
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+---
+
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{Template:Graph:PageViews}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>1ys2ffws8scua5f48d6x37vap9us424</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2023-03-15T00:04:36Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Funcionando */</comment>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8556" sha1="c8at65locq2oll6x6fo5zzhaxjsogbh" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;'''Gráfico de áreas'''&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+
+'''Gráfico de linhas'''&lt;graph&gt;{
+	"version": 2,
+	"width": 400,
+	"height": 200,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 0,
+					"y": 1
+				},
+				{
+					"x": 1,
+					"y": 3
+				},
+				{
+					"x": 2,
+					"y": 2
+				},
+				{
+					"x": 3,
+					"y": 4
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "linear",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "line",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"interpolate": {
+						"value": "monotone"
+					},
+					"stroke": {
+						"value": "steelblue"
+					},
+					"strokeWidth": {
+						"value": 3
+					}
+				}
+			}
+		}
+	]
+}&lt;/graph&gt;
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam: de pizza, mapa etc. Verificar exemplos na [[mediawikiwiki:Extension:Graph|documentação]].
+
+Falta implementar as predefinições (usa [[mediawikiwiki:Extension:Scribunto|Scribunto]] e Lua):
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+---
+
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{Template:Graph:PageViews}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>c8at65locq2oll6x6fo5zzhaxjsogbh</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2023-03-15T00:05:39Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Não funcionando */</comment>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8609" sha1="tbi5oxrf48hmvs0gk2cpp14cdbdskpn" xml:space="preserve">Página de testes.
+
+Para página de [[Manutenção]].{{Aviso|Esta página é de manutenção. Aqui se testa recursos e extensões deste wiki.}}
+== Título (2 =) ==
+
+=== Subtítulo 1 (3 =) ===
+
+==== Subtítulo 2 (4 =) ====
+
+===== Subtítulo 3 (5 =) =====
+
+====== Subtítulo 4 (6 =) ======
+ Pré-formatado (um espaço antes do parágrafo)
+&lt;blockquote&gt;&lt;nowiki&gt;&lt;blockquote&gt; Bloco de citação &lt;/blockquote&gt;&lt;/nowiki&gt;&lt;/blockquote&gt;
+
+&lt;code&gt;&lt;nowiki&gt;&lt;code&gt; Código &lt;/code&gt;&lt;/nowiki&gt;&lt;/code&gt;
+
+&lt;nowiki&gt;&lt;nowiki&gt; Desabilitar wiki markdown &lt;/nowiki&gt;&lt;/nowiki&gt;
+
+== Imagens ==
+
+Lista de imagens: https://wiki.addressforall.org/doc/Especial:Lista_de_arquivos
+
+[[Arquivo:Image.png|esquerda|miniaturadaimagem|Legenda vai aqui.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria simples:
+
+&lt;gallery&gt;
+File:Image.png|Teste 1.
+File:Image.png|Teste 2.
+File:Image.png|Teste 3.
+&lt;/gallery&gt;
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Galeria com legenda mousehover:
+
+&lt;gallery mode="packed-hover"&gt;
+Image:Image.png|''Teste 1''
+Image:Image.png|''Teste 2''
+Image:Image.png|''Teste 3''
+&lt;/gallery&gt;
+
+
+== Tabelas ==
+
+Tabela estática
+{| class="wikitable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+Tabela ordenável
+{| class="wikitable sortable"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example 1 || Example C || Example /
+|-
+| Example 2 || Example B || Example *
+|-
+| Example 3 || Example A || Example -
+|}
+
+Tabela colapsável
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! Header text !! Header text !! Header text
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|-
+| Example || Example || Example
+|}
+
+== Gráficos ==
+=== Funcionando ===
+Teste de gráficos com dados JSON.
+
+'''Gráfico de barras'''
+&lt;graph&gt;
+{
+  "width": 400,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "table", "field": "y"},
+      "nice": true
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x"},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+&lt;br&gt;'''Gráfico de áreas'''&lt;graph&gt;
+{
+  "width": 500,
+  "height": 200,
+  "padding": {"top": 10, "left": 30, "bottom": 30, "right": 10},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x": 1,  "y": 28}, {"x": 2,  "y": 55},
+        {"x": 3,  "y": 43}, {"x": 4,  "y": 91},
+        {"x": 5,  "y": 81}, {"x": 6,  "y": 53},
+        {"x": 7,  "y": 19}, {"x": 8,  "y": 87},
+        {"x": 9,  "y": 52}, {"x": 10, "y": 48},
+        {"x": 11, "y": 24}, {"x": 12, "y": 49},
+        {"x": 13, "y": 87}, {"x": 14, "y": 66},
+        {"x": 15, "y": 17}, {"x": 16, "y": 27},
+        {"x": 17, "y": 68}, {"x": 18, "y": 16},
+        {"x": 19, "y": 49}, {"x": 20, "y": 15}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear",
+      "range": "width",
+      "zero": false,
+      "domain": {"data": "table", "field": "x"}
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", "ticks": 20},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "area",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "interpolate": {"value": "monotone"},
+          "x": {"scale": "x", "field": "x"},
+          "y": {"scale": "y", "field": "y"},
+          "y2": {"scale": "y", "value": 0},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "fillOpacity": {"value": 1}
+        },
+        "hover": {
+          "fillOpacity": {"value": 0.5}
+        }
+      }
+    }
+  ]
+}
+&lt;/graph&gt;
+
+
+'''Gráfico de linhas'''&lt;graph&gt;{
+	"version": 2,
+	"width": 400,
+	"height": 200,
+	"data": [
+		{
+			"name": "table",
+			"values": [
+				{
+					"x": 0,
+					"y": 1
+				},
+				{
+					"x": 1,
+					"y": 3
+				},
+				{
+					"x": 2,
+					"y": 2
+				},
+				{
+					"x": 3,
+					"y": 4
+				}
+			]
+		}
+	],
+	"scales": [
+		{
+			"name": "x",
+			"type": "linear",
+			"range": "width",
+			"zero": false,
+			"domain": {
+				"data": "table",
+				"field": "x"
+			}
+		},
+		{
+			"name": "y",
+			"type": "linear",
+			"range": "height",
+			"nice": true,
+			"domain": {
+				"data": "table",
+				"field": "y"
+			}
+		}
+	],
+	"axes": [
+		{
+			"type": "x",
+			"scale": "x"
+		},
+		{
+			"type": "y",
+			"scale": "y"
+		}
+	],
+	"marks": [
+		{
+			"type": "line",
+			"from": {
+				"data": "table"
+			},
+			"properties": {
+				"enter": {
+					"x": {
+						"scale": "x",
+						"field": "x"
+					},
+					"y": {
+						"scale": "y",
+						"field": "y"
+					},
+					"y2": {
+						"scale": "y",
+						"value": 0
+					},
+					"interpolate": {
+						"value": "monotone"
+					},
+					"stroke": {
+						"value": "steelblue"
+					},
+					"strokeWidth": {
+						"value": 3
+					}
+				}
+			}
+		}
+	]
+}&lt;/graph&gt;
+
+=== Não funcionando ===
+
+Os gráficos abaixo não funcionam: de pizza, mapa etc. Verificar exemplos na [[mediawikiwiki:Extension:Graph|documentação]].
+
+Falta implementar as predefinições (usa [[mediawikiwiki:Extension:Scribunto|Scribunto]] e Lua):
+
+{{Template:Graph:PageViews}}
+
+{{Graph:PageHistory}}
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legenda
+ |x=Item A,Item B,Item C,Item D,Item E,Item F,Item G,Item H,Item I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+
+---
+
+&lt;graph&gt;
+{{Template:Graph:PageViews}}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{Template:Graph:PageViews}
+&lt;/graph&gt;
+
+&lt;graph&gt;
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+&lt;/graph&gt;
+
+{{Graph:Chart|width=600|height=100|xAxisTitle=X|yAxisTitle=Y
+ |type=rect|x=1,2,3,4,5,6,7,8|y=10,12,6,14,2,10,7,9}}
+
+{{Graph:Chart|width=100|height=100|type=pie|legend=Legende
+ |x=A,B,C,D,E,F,G,H,I|y1=100,200,150,300,100,100,150,50,200
+ |y2=7,8,9,8,8,9,10,9,5|showValues=}}
+
+{{Graph:Chart|width=400|height=100|xAxisTitle=X|yAxisTitle=Y
+ |legend=Legend|type=stackedarea|x=1,2,3,4,5,6|y1=10,12,6,14,2,10
+ |y2=2,4,6,8,13,11|interpolate=monotone|colors=seagreen,orchid}}
+teste_fim
+
+== Mapas ==
+Exemplo de arquivo .map: https://commons.wikimedia.org/wiki/Data:Brazil.map.
+
+Não se descobriu como inserir arquivo .map do Commons nesta página. Neste caso, a extensão [https://www.mediawiki.org/wiki/Extension:Kartographer Kartographer] pode servir.
+
+Ver: https://en.wikipedia.org/wiki/Wikipedia:Maps_for_Wikipedia. Possui exemplos de mapas interativos e do OSM.
+
+== PDF ==
+Funciona. Ver [https://commons.wikimedia.org/wiki/File:2014-15_Wikimedia_Foundation_Plan.pdf PDF original].
+
+Exemplo de PDF do Commons inserido na página, com moldura.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|400px|miniaturadaimagem|esquerda|Wikimedia Foundation Plan.]]
+
+&lt;br style="clear: both;" clear="all" /&gt;
+
+Exemplo de PDF do Commons inserido na página, sem moldura, menor.
+
+[[Arquivo:2014-15 Wikimedia Foundation Plan.pdf|page=1|200px|esquerda|Wikimedia Foundation Plan.]]
+[[Categoria:Manutenção]]</text>
+      <sha1>tbi5oxrf48hmvs0gk2cpp14cdbdskpn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Categoria:Manutenção</title>
+    <ns>14</ns>
+    <id>5</id>
+    <revision>
+      <id>22</id>
+      <timestamp>2023-03-14T00:14:24Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Criou página com 'Aqui estão listadas as páginas da categoria '''{{PAGENAME}}'''.'</comment>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="taujwpk3pf23guvwruyktfd4ru12laa" xml:space="preserve">Aqui estão listadas as páginas da categoria '''{{PAGENAME}}'''.</text>
+      <sha1>taujwpk3pf23guvwruyktfd4ru12laa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Predefinição:Aviso</title>
+    <ns>10</ns>
+    <id>6</id>
+    <revision>
+      <id>28</id>
+      <timestamp>2023-03-14T02:03:02Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <comment>Criou página com '{| cellpadding="2" cellspacing="2" class="wikitable" style="width: 60%; margin: 2em auto 0 auto; text-align: center;" |- | valign="center" style="width: 7%" | [[Arquivo:Dialog-warning.svg|link=]] | valign="center" style="padding: 0.75em; background:#FFD300; text-align: left; font-size: 120%;" | '''AVISO:''' {{{1}}} |}&lt;includeonly&gt; [[Categoria:Páginas com avisos]] &lt;/includeonly&gt; &lt;noinclude&gt; == Uso == Para marcar página com aviso.  == Exemplo == &lt;pre&gt; {{Aviso|Algum texto...'</comment>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="554" sha1="729e997fxt2mvisd1jffnov3ulhqdv3" xml:space="preserve">{| cellpadding="2" cellspacing="2" class="wikitable" style="width: 60%; margin: 2em auto 0 auto; text-align: center;"
+|-
+| valign="center" style="width: 7%" | [[Arquivo:Dialog-warning.svg|link=]]
+| valign="center" style="padding: 0.75em; background:#FFD300; text-align: left; font-size: 120%;" | '''AVISO:''' {{{1}}}
+|}&lt;includeonly&gt;
+[[Categoria:Páginas com avisos]]
+&lt;/includeonly&gt;
+&lt;noinclude&gt;
+== Uso ==
+Para marcar página com aviso.
+
+== Exemplo ==
+&lt;pre&gt;
+{{Aviso|Algum texto aqui}}
+&lt;/pre&gt;
+
+[[Categoria:Predefinições]]
+[[Categoria:Avisos]]
+&lt;/noinclude&gt;</text>
+      <sha1>729e997fxt2mvisd1jffnov3ulhqdv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arquivo:2012-12-19-gnulinux.webp</title>
+    <ns>6</ns>
+    <id>7</id>
+    <revision>
+      <id>32</id>
+      <timestamp>2023-03-19T20:30:22Z</timestamp>
+      <contributor>
+        <username>Admin</username>
+        <id>1</id>
+      </contributor>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9" sha1="8ccyi546ofzpqogj85psrdj4nv3fnw5" xml:space="preserve">gnu linux</text>
+      <sha1>8ccyi546ofzpqogj85psrdj4nv3fnw5</sha1>
+    </revision>
+  </page>
+</mediawiki>
