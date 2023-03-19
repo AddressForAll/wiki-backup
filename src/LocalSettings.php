@@ -61,7 +61,7 @@ $wgDBtype = "postgres";
 $wgDBserver = "localhost";
 $wgDBname = "wiki";
 $wgDBuser = "wikiuser";
-$wgDBpassword = "w1i2k3i4u5";
+$wgDBpassword = "xxxxxxxxxxx";
 
 # Postgres specific settings
 $wgDBport = "5432";
