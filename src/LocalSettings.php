@@ -19,8 +19,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 ## Uncomment this to disable output compression
 # $wgDisableOutputCompression = true;
 
-$wgSitename = "Wiki AddressForAll";
-$wgMetaNamespace = "AddressForAll";
+$wgSitename = "Documentação";
 
 ## The URL base path to the directory containing the wiki;
 ## defaults for all runtime URL paths are based off of this.
@@ -40,8 +39,8 @@ $wgResourceBasePath = $wgScriptPath;
 ## The URL paths to the logo.  Make sure you change this from the default,
 ## or else you'll overwrite your logo when you upgrade!
 $wgLogos = [
-	'1x' => "$wgResourceBasePath/resources/assets/change-your-logo.svg",
-	'icon' => "$wgResourceBasePath/resources/assets/change-your-logo.svg",
+	'1x' => "$wgResourceBasePath/resources/assets/logo_a4a.png",
+	'icon' => "$wgResourceBasePath/resources/assets/logo_a4a.png",
 ];
 
 ## UPO means: this is also a user preference option
@@ -49,8 +48,8 @@ $wgLogos = [
 $wgEnableEmail = true;
 $wgEnableUserEmail = true; # UPO
 
-$wgEmergencyContact = "operacao@addressforall.org";
-$wgPasswordSender = "operacao@addressforall.org";
+$wgEmergencyContact = "crebollo@gmail.com";
+$wgPasswordSender = "crebollo@gmail.com";
 
 $wgEnotifUserTalk = true; # UPO
 $wgEnotifWatchlist = true; # UPO
@@ -60,11 +59,11 @@ $wgEmailAuthentication = true;
 $wgDBtype = "postgres";
 $wgDBserver = "localhost";
 $wgDBname = "wiki";
-$wgDBuser = "wikiuser";
-$wgDBpassword = "xxxxxxxxxxx";
+$wgDBuser = "xxxxx";
+$wgDBpassword = "xxxxx";
 
 # Postgres specific settings
-$wgDBport = "5432";
+$wgDBport = "xxxxx";
 $wgDBmwschema = "mediawiki";
 
 # Shared database table
@@ -100,14 +99,14 @@ $wgLocaltimezone = "America/Sao_Paulo";
 ## be publicly accessible from the web.
 #$wgCacheDirectory = "$IP/cache";
 
-$wgSecretKey = "4fd6508c3a83009fdc7b7de4c946053bd9c50569f09c31f932177cbaa182ea10";
+$wgSecretKey = "xxxxx";
 
 # Changing this will log out all existing sessions.
 $wgAuthenticationTokenVersion = "1";
 
 # Site upgrade key. Must be set to a string (default provided) to turn on the
 # web installer while LocalSettings.php is in place
-$wgUpgradeKey = "87a6f78f74602cae";
+$wgUpgradeKey = "xxxxx";
 
 ## For attaching licensing metadata to pages, and displaying an
 ## appropriate copyright notice / icon. GNU Free Documentation
@@ -121,8 +120,8 @@ $wgRightsIcon = "$wgResourceBasePath/resources/assets/licenses/cc-by.png";
 $wgDiff3 = "/usr/bin/diff3";
 
 # The following permissions were set based on your choice in the installer
-$wgGroupPermissions['*']['createaccount'] = false;
-$wgGroupPermissions['*']['edit'] = false;
+$wgGroupPermissions['sysop']['createaccount'] = true;
+$wgGroupPermissions['user']['edit'] = false;
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, e.g. 'vector' or 'monobook':
@@ -155,7 +154,7 @@ wfLoadExtension( 'PageImages' );
 wfLoadExtension( 'ParserFunctions' );
 wfLoadExtension( 'PdfHandler' );
 wfLoadExtension( 'Poem' );
-wfLoadExtension( 'Renameuser' );
+#wfLoadExtension( 'Renameuser' );
 wfLoadExtension( 'ReplaceText' );
 wfLoadExtension( 'Scribunto' );
 wfLoadExtension( 'SecureLinkFixer' );
@@ -165,48 +164,47 @@ wfLoadExtension( 'TextExtracts' );
 wfLoadExtension( 'VisualEditor' );
 wfLoadExtension( 'WikiEditor' );
 
+
 wfLoadExtension( 'GeoData' );
 wfLoadExtension( 'MobileFrontend' );
 wfLoadExtension( 'ConfirmAccount' );
 wfLoadExtension( 'UserMerge' );
-
-//wfLoadExtension( 'EmbedVideo' );
+wfLoadExtension( 'EmbedVideo' );
 wfLoadExtension( 'JsonConfig' );
 wfLoadExtension( 'Graph' );
 wfLoadExtension( 'Kartographer' );
 
 
-#$wgScribuntoDefaultEngine = 'luasandbox';
-#$wgScribuntoEngineConf['luasandbox']['errorFile'] = '/tmp/luasandbox.log';
-#
-$wgScribuntoDefaultEngine = 'luastandalone';
-$wgScribuntoEngineConf['luastandalone']['luaPath'] = '/usr/bin/lua5.1';
-$wgScribuntoEngineConf['luastandalone']['errorFile'] = '/tmp/luastandalone.log';
-
-
 # End of automatically generated settings.
 # Add more configuration options below.
-#$wgShowExceptionDetails = true;
-$wgDBerrorLog = '/var/log/mediawiki/dberror.log';
-$wgDebugLogGroups = array(
-	'resourceloader' => '/var/log/mediawiki/resourceloader.log',
-	'exception' => '/var/log/mediawiki/exception.log',
-	'error' => '/var/log/mediawiki/error.log',
-	'ratelimit' => '/var/log/mediawiki/ratelimit.log',
-	'Graph' => '/var/log/mediawiki/Graph.log',
-);
 
 
-$wgExternalLinkTarget = '_blank';
-$wgAllowExternalImages = true;
+$wgFavicon = '/w/resources/assets/logo_a4a.png';
+
+$wgScribuntoDefaultEngine = 'luastandalone';
+$wgScribuntoEngineConf['luastandalone']['luaPath'] = '/usr/bin/lua5.1';
+
+
+$wgKartographerMapServer = 'https://a.tile.openstreetmap.org/';
+$wgKartographerDfltStyle = '';
+$wgKartographerStyles = [];
+
+# Enable subpages in the main namespace
 $wgNamespacesWithSubpages[NS_MAIN] = true;
-$wgNamespacesWithSubpages[NS_TEMPLATE] = true;
 
-define("A4A", 3000);
-define("DG", 4000);
-define("OsmC", 5000);
+define("NS_OSMC", 3000); // Docs OSM Codes
+define("NS_OSMC_TALK", 3001);
 
-$wgExtraNamespaces[A4A] = "A4A";
-$wgExtraNamespaces[DG] = "DG";
-$wgExtraNamespaces[OsmC] = "OsmC";
+// Add namespaces.
+$wgExtraNamespaces[NS_OSMC] = "osmc";
+$wgExtraNamespaces[NS_OSMC_TALK] = "osmc_talk";
+$wgExtraNamespaces[NS_OSMCX] = "osmcx";
+$wgExtraNamespaces[NS_OSMCX_TALK] = "osmcx_talk";
 
+$wgVisualEditorAvailableNamespaces = [
+    NS_MAIN => true,
+    NS_USER => true,
+    NS_HELP => true,
+    NS_OSMC => true,
+    "_merge_strategy" => "array_plus"
+];
