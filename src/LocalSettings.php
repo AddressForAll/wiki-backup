@@ -189,22 +189,47 @@ $wgKartographerMapServer = 'https://a.tile.openstreetmap.org/';
 $wgKartographerDfltStyle = '';
 $wgKartographerStyles = [];
 
-# Enable subpages in the main namespace
-$wgNamespacesWithSubpages[NS_MAIN] = true;
+
+// --------------------------------------------------
 
 define("NS_OSMC", 3000); // Docs OSM Codes
 define("NS_OSMC_TALK", 3001);
 
+define("NS_OSMCX", 3002); // lixo deletar
+define("NS_OSMCX_TALK", 3003);
+
+define("NS_A4A", 3004); // Docs AddressForAll
+define("NS_A4A_TALK", 3005);
+
+define("NS_DG", 3006); // Docs Digital-guard
+define("NS_DG_TALK", 3007);
+
+
 // Add namespaces.
 $wgExtraNamespaces[NS_OSMC] = "osmc";
 $wgExtraNamespaces[NS_OSMC_TALK] = "osmc_talk";
-$wgExtraNamespaces[NS_OSMCX] = "osmcx";
-$wgExtraNamespaces[NS_OSMCX_TALK] = "osmcx_talk";
+  $wgExtraNamespaces[NS_OSMCX] = "osmcx";
+  $wgExtraNamespaces[NS_OSMCX_TALK] = "osmcx_talk";
+$wgExtraNamespaces[NS_DG] = "dg";
+$wgExtraNamespaces[NS_DG_TALK] = "dg_talk";
+$wgExtraNamespaces[NS_A4A] = "a4a";
+$wgExtraNamespaces[NS_A4A_TALK] = "a4a_talk";
+
 
 $wgVisualEditorAvailableNamespaces = [
     NS_MAIN => true,
     NS_USER => true,
     NS_HELP => true,
     NS_OSMC => true,
+    NS_A4A => true,
+    NS_DG => true,
     "_merge_strategy" => "array_plus"
 ];
+
+
+# Enable subpages in the namespace
+$wgNamespacesWithSubpages[NS_MAIN] = true;
+$wgNamespacesWithSubpages[NS_OSMC] = true;
+$wgNamespacesWithSubpages[NS_A4A] = true;
+$wgNamespacesWithSubpages[NS_DG] = true;
+$wgNamespacesWithSubpages[NS_HELP] = true;
