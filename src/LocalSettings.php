@@ -125,7 +125,9 @@ $wgGroupPermissions['user']['edit'] = false;
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, e.g. 'vector' or 'monobook':
-$wgDefaultSkin = "vector";
+//$wgDefaultSkin = "Vector";
+$wgDefaultSkin = 'vector-2022';
+//$wgVectorUseIconWatch = true;
 
 # Enabled skins.
 # The following skins were automatically enabled:
@@ -169,10 +171,22 @@ wfLoadExtension( 'GeoData' );
 wfLoadExtension( 'MobileFrontend' );
 wfLoadExtension( 'ConfirmAccount' );
 wfLoadExtension( 'UserMerge' );
-wfLoadExtension( 'EmbedVideo' );
+//wfLoadExtension( 'EmbedVideo' );
 wfLoadExtension( 'JsonConfig' );
 wfLoadExtension( 'Graph' );
 wfLoadExtension( 'Kartographer' );
+
+wfLoadExtension( 'UserMerge' );
+
+wfLoadExtension( 'LookupUser' );
+$wgGroupPermissions['sysop']['lookupuser'] = true;
+
+// By default nobody can use this function, enable for bureaucrat?
+$wgGroupPermissions['bureaucrat']['usermerge'] = true;
+
+// To enable for administrators add this:
+$wgGroupPermissions['sysop']['usermerge'] = true;
+
 
 
 # End of automatically generated settings.
@@ -204,6 +218,15 @@ define("NS_A4A_TALK", 3005);
 define("NS_DG", 3006); // Docs Digital-guard
 define("NS_DG_TALK", 3007);
 
+define("NS_SUP", 3008); // Docs Support (suporte)
+define("NS_SUP_TALK", 3009);
+
+define("NS_SITE", 3010); // Docs for site requirements
+define("NS_SITE_TALK", 3011);
+
+define("NS_WEB", 3012); // Docs for site requirements
+define("NS_WEB_TALK", 3013);
+
 
 // Add namespaces.
 $wgExtraNamespaces[NS_OSMC] = "osmc";
@@ -214,6 +237,12 @@ $wgExtraNamespaces[NS_DG] = "dg";
 $wgExtraNamespaces[NS_DG_TALK] = "dg_talk";
 $wgExtraNamespaces[NS_A4A] = "a4a";
 $wgExtraNamespaces[NS_A4A_TALK] = "a4a_talk";
+$wgExtraNamespaces[NS_SUP] = "sup";
+$wgExtraNamespaces[NS_SUP_TALK] = "sup_talk";
+$wgExtraNamespaces[NS_SITE] = "site";
+$wgExtraNamespaces[NS_SITE_TALK] = "site_talk";
+$wgExtraNamespaces[NS_WEB] = "web";
+$wgExtraNamespaces[NS_WEB_TALK] = "web_talk";
 
 
 $wgVisualEditorAvailableNamespaces = [
@@ -223,6 +252,9 @@ $wgVisualEditorAvailableNamespaces = [
     NS_OSMC => true,
     NS_A4A => true,
     NS_DG => true,
+    NS_SUP => true,
+    NS_SITE => true,
+    NS_WEB => true,
     "_merge_strategy" => "array_plus"
 ];
 
@@ -233,3 +265,40 @@ $wgNamespacesWithSubpages[NS_OSMC] = true;
 $wgNamespacesWithSubpages[NS_A4A] = true;
 $wgNamespacesWithSubpages[NS_DG] = true;
 $wgNamespacesWithSubpages[NS_HELP] = true;
+$wgNamespacesWithSubpages[NS_SUP] = true;
+$wgNamespacesWithSubpages[NS_SITE] = true;
+$wgNamespacesWithSubpages[NS_WEB] = true;
+
+// --------------------------------------------------
+
+$wgCanonicalServer = "https://wiki.addressforall.org";
+$wgGroupPermissions['sysop']['createaccount'] = false;
+$wgGroupPermissions['*']['createaccount'] = false;
+// https://www.mediawiki.org/wiki/Extension_talk:ConfirmAccount
+$wgAccountRequestThrottle=false;
+
+
+// https://www.mediawiki.org/wiki/Topic:T6uzpn51mgb8n5sc
+$wgRunJobsAsync=false;
+$wgJobRunRate = 0.01;
+
+
+
+// anonimo não edita
+$wgGroupPermissions['*']['edit'] = false;
+$wgGroupPermissions['user']['edit'] = true;
+$wgGroupPermissions['sysop']['edit'] = true;
+
+// para a aprovação de usuaários pelo admin, sem isso não funciona
+$wgGroupPermissions['bureaucrat']['createaccount'] = true;
+
+
+// Debug SQL - Carlos 10/10/2023
+/*
+$wgShowExceptionDetails = true;
+$wgShowDBErrorBacktrace = true;
+$wgShowSQLErrors = true;
+$wgShowExceptionDetails = true;
+error_reporting( -1 );
+ini_set( 'display_errors', 1 );
+ */
