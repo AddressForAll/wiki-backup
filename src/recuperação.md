@@ -1,3 +1,5 @@
+# Roteiro para recuperação completa do ambiente 
+
 # Recuperação via portainer + GitLab CI/CD
 
 - Criar no gitlab o projeto itgs/wiki e itgs/wiki:sshd com os arquivos abaixo
