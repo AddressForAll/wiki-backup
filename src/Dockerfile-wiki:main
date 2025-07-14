@@ -1,0 +1,8 @@
+FROM mediawiki:stable
+
+RUN apt-get update \
+    && apt-get install -y \
+        ghostscript \
+        xpdf-utils \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
