@@ -8,6 +8,7 @@ echo "Resumo da edição: '$EDIT_SUMMARY'"
 
 # --- Obter lista de TODAS as páginas do arquivo gerado pelo SQL ---
 # Certifique-se de que o caminho para pages_to_process.txt está correto
+# rodar lista.bash
 PAGES_LIST=$(cat ~/pages_to_process.txt)
 
 if [ -z "$PAGES_LIST" ]; then
